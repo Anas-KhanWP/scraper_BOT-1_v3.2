@@ -10,6 +10,7 @@ import logging
 
 from selenium.webdriver.common.by import By
 
+# Import Required Helper Functions
 from helper_functions_v2 import (
     parse,
     get_urls_from_file,
