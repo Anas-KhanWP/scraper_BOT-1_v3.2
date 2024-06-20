@@ -1,0 +1,17 @@
+/env
+.idea
+__pycache__
+testing
+!testing/results.csv
+
+misc
+creds
+success
+testing
+testing_v2
+backup
+Results!!!
+test_files
+
+glassy-bonsai-390211-1e87faf20a89.json
+googlesheetcreds.json

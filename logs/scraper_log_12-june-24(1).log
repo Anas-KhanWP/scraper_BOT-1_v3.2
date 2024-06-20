@@ -1,0 +1,152 @@
+2024-06-11 13:58:58,017 - INFO - Started Scraping URL -> 1/69
+2024-06-11 13:59:00,445 - INFO - Getting Foreclosure Dates For -> 1/69
+2024-06-11 13:59:35,349 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:38,035 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:40,723 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:43,394 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:46,067 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:48,739 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:51,442 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:54,114 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:56,802 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 13:59:59,473 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:00:02,144 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:00:04,832 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:00:07,521 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:00:10,160 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:00:12,817 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:00:12,833 - INFO - Started Scraping URL -> 2/69
+2024-06-11 14:00:18,723 - INFO - Getting Foreclosure Dates For -> 2/69
+2024-06-11 14:00:39,243 - INFO - Started Scraping URL -> 3/69
+2024-06-11 14:00:41,488 - INFO - Getting Foreclosure Dates For -> 3/69
+2024-06-11 14:00:55,348 - INFO - Started Scraping URL -> 4/69
+2024-06-11 14:00:57,618 - INFO - Getting Foreclosure Dates For -> 4/69
+2024-06-11 14:01:25,052 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:27,723 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:30,361 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:33,017 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:35,689 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:38,393 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:41,064 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:43,721 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
+2024-06-11 14:01:46,361 - ERROR - Error Occurred in the main function: cannot access local variable 'auction_items' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Developer\Desktop\scraper_BOT-1_v3\scraper_BOT-1_v3.1.1.1-test.py", line 116, in main
+    print(f"Processing {row_idx}/{len(auction_items)}")
+                                      ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'auction_items' where it is not associated with a value
