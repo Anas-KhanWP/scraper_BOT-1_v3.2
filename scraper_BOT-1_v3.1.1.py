@@ -41,6 +41,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
+# Use This EndPoint
 # define endpoints for CRM API here
 # Production endpoint
 API_ENDPOINT_PRODUCTION = "http://34.228.119.194/api/AuctionPostAPI"
